@@ -1,3 +1,9 @@
 {
-  "Patrones de diseño": "https://refactoring.guru/design-patterns/catalog"
+  "Patrones de diseño": {
+    "url": "https://refactoring.guru/design-patterns/catalog",
+    "image": "",
+    "title": "Patrones de diseño en Javascript",
+    "description": "",
+    "language": "en",
+  }
 }
