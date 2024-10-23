@@ -25,6 +25,12 @@
       "title": "Curso React desde 0",
       "description": "Video curso de React",
       "language": "es"
+    },
+    {
+      "url": "https://codigofacilito.com/cursos/react-profesional",
+      "title": "Curso fácil de React',
+      "description": "Curso con certificado de finalización sobre React",
+      "language": "es"
     }
   ]
 }
