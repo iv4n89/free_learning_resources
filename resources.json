@@ -2,10 +2,17 @@
   "general": [
     {
       "url": "https://refactoring.guru/design-patterns/catalog",
-      "image": "",
       "title": "Patrones de diseño",
       "description": "Sección de web 'refactoring-guru' con multitud de patrones de diseño, con ejemplos y buenas explicaciones de cada uno",
       "language": "en"
+    }
+  ],
+  "react": [
+    {
+      "url": "https://www.youtube.com/watch?v=7iobxzd_2wY",
+      "title": "Curso React desde 0",
+      "description": "Video curso de React",
+      "language": "es"
     }
   ]
 }
