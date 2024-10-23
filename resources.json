@@ -33,6 +33,14 @@
       "language": "es"
     }
   ],
+  "java": [
+    {
+      "url": "https://www.baeldung.com/ops/kafka-docker-setup",
+      "title": "Configurar Apache Kafka usando Docker",
+      "description": "Cómo configurar kafka en Spring Boot usando Docker",
+      "language": "en"
+    }
+  ],
   "aws": [
     {
       "url": "https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-dynamo-db.html",
