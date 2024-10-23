@@ -5,6 +5,18 @@
       "title": "Patrones de diseño",
       "description": "Sección de web 'refactoring-guru' con multitud de patrones de diseño, con ejemplos y buenas explicaciones de cada uno",
       "language": "en"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=JI_THVXPToQ",
+      "title": "Los 6 patrones de diseño más usados",
+      "description": "Vídeo explicativo sobre los 6 patrones de diseños más usados en desarrollo de software",
+      "langugage": "es"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2X50sKeBAcQ",
+      "title": "Principios SOLID explicados",
+      "description": "Vídeo explicativo sobre principios SOLID",
+      "language": "es"
     }
   ],
   "react": [
