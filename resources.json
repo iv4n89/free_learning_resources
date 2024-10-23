@@ -32,5 +32,13 @@
       "description": "Curso con certificado de finalización sobre React",
       "language": "es"
     }
+  ],
+  "aws": [
+    {
+      "url": "https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-dynamo-db.html",
+      "title": "Cómo crear un CRUD HTTP API con Lambda y DynamoDB",
+      "description": "Tutorial sobre cómo crear un CRUD en Lambda de AWS",
+      "language": "en"
+    }
   ]
 }
