@@ -53,6 +53,14 @@
       "language": "en"
     }
   ],
+  "php": [
+    {
+      "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/php",
+      "title": "Curso de PHP para principiantes",
+      "description": "Curso de PHP para principiantes gratuito que toca los conceptos básicos de PHP",
+      "language": "en"
+    }
+  ],
   "aws": [
     {
       "url": "https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-dynamo-db.html",
