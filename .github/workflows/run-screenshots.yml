@@ -19,4 +19,4 @@ jobs:
         run: npm install
 
       - name: Run getScreenshot script
-        run: node getScreenshots.js
+        run: node getScreenshots.mjs
