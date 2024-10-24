@@ -2,6 +2,8 @@ import puppeteer from 'puppeteer';
 import resources from './resources.json' assert { type: 'json' };
 import { getDownloadURL, getStorage, ref, uploadBytes } from 'firebase/storage';
 import { initializeApp } from 'firebase/app';
+import fs from 'fs';
+import path from 'path';
 
 const firebaseConfig = {
     apiKey: 'AIzaSyAR3IF1-4EfpPuvjV8zO0-yvVBQqkIbyzA',
@@ -19,6 +21,10 @@ const storage = getStorage(app);
 
 const browser = await puppeteer.launch();
 const page = await browser.newPage();
+
+if (!fs.existsSync("/tmp")) {
+    fs.mkdirSync("/tmp");
+}
 
 const types = Object.keys(resources);
 
