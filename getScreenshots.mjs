@@ -6,13 +6,13 @@ import fs from 'fs';
 import path from 'path';
 
 const firebaseConfig = {
-    apiKey: 'AIzaSyAR3IF1-4EfpPuvjV8zO0-yvVBQqkIbyzA',
-    authDomain: 'free-resources-96253.firebaseapp.com',
-    projectId: 'free-resources-96253',
-    storageBucket: 'free-resources-96253.appspot.com',
-    messagingSenderId: '998746020785',
-    appId: '1:998746020785:web:d92dedccd4c92a7c68fb90',
-    measurementId: 'G-8B8B4KSVH1',
+    apiKey: process.env.FIREBASE_API_KEY,
+    authDomain: process.env.FIREBASE_AUTH_DOMAIN,
+    projectId: process.env.FIREBASE_PROJECT_ID,
+    storageBucket: process.env.FIREBASE_STORAGE_BUCKET,
+    messagingSenderId: process.env.FIREBASE_MESSAGING_SENDER_ID,
+    appId: process.env.FIREBASE_APP_ID,
+    measurementId: process.env.FIREBASE_MEASUREMENT_ID,
 };
 
 const app = initializeApp(firebaseConfig);
