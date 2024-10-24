@@ -47,6 +47,14 @@
       "language": "es"
     }
   ],
+  "javascript": [
+    {
+      "url": "https://www.codecademy.com/learn/introduction-to-javascript",
+      "title": "Curso de introducción a JavaScript",
+      "description": "Curso de introducción a JavaScript en Codecademy donde se aprenderá lo básico de JavaScript",
+      "language": "en"
+    }
+  ],
   "java": [
     {
       "url": "https://www.baeldung.com/ops/kafka-docker-setup",
