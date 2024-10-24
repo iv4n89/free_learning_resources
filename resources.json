@@ -39,6 +39,18 @@
       "title": "Configurar Apache Kafka usando Docker",
       "description": "Cómo configurar kafka en Spring Boot usando Docker",
       "language": "en"
+    },
+    {
+      "url": "https://spring.io/guides/gs/rest-service",
+      "title": "Construir un servicio web RESTful",
+      "description": "Tutorial de Spring Boot para construir un servicio web RESTful",
+      "language": "en"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hm61ILSjLfs",
+      "title": "Curso de Java MVC para principiantes",
+      "description": "Curso de Java MVC para principiantes",
+      "language": "en"
     }
   ],
   "aws": [
