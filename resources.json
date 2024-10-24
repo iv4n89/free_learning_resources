@@ -33,6 +33,20 @@
       "language": "es"
     }
   ],
+  "angular": [
+    {
+      "url": "https://www.udemy.com/course/fundamentos-de-angular/",
+      "title": "Curso gratis fundamentos de Angular",
+      "description": "Curso de Angular gratis en Udemy para aprender los fundamentos de Angular",
+      "language": "es"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=soInCF7nbDw",
+      "title": "Curso de Angular desde 0",
+      "description": "Video curso de Angular desde 0 en español",
+      "language": "es"
+    }
+  ],
   "java": [
     {
       "url": "https://www.baeldung.com/ops/kafka-docker-setup",
