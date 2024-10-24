@@ -4,6 +4,9 @@ import { getDownloadURL, getStorage, ref, uploadBytes } from 'firebase/storage';
 import { initializeApp } from 'firebase/app';
 import fs from 'fs';
 import path from 'path';
+import {config} from 'dotenv';
+config();
+
 
 const firebaseConfig = {
     apiKey: process.env.FIREBASE_API_KEY,
